@@ -1,0 +1,3 @@
+Niftymitter is a short range FM transmitter based on the open source hardware design by Tetsuo Kogawa, housed within a cardboard body, with a variety of options for hacking. The transmitter is tiny and handy for small scale radio broadcasts, building a distributed PA system for performances, linking your personal audio player to your car radio, or for general audio experimentation.
+
+The project is housed at http://www.openthing.org/products/niftymitter
